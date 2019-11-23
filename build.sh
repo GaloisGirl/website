@@ -1,2 +1,2 @@
-docker build -t=website .
+docker build -t=website --network host .
 
